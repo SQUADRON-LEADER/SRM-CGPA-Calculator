@@ -54,7 +54,8 @@ A lightweight and user-friendly tool to calculate CGPA for SRM University studen
 
 ![Screenshot 2025-04-05 172208](https://github.com/user-attachments/assets/7926097f-329b-4c66-acac-bf6beb5fb2b5)
 
-![Uploading Screenshot 2025-04-05 172217.png…]()
+![Screenshot 2025-04-05 172217](https://github.com/user-attachments/assets/744fa297-be8f-4e63-b011-d642341f9a0e)
+
 
 ---
 
