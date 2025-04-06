@@ -89,9 +89,7 @@ Pull requests are welcome! Feel free to suggest features or improvements.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Thank You ❤️ for the support
 
 ---
 
