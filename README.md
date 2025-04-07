@@ -89,7 +89,7 @@ Pull requests are welcome! Feel free to suggest features or improvements.
 
 ---
 
-Thank You ❤️ for the support
+Thank You ❤️ for the support 🔥
 
 ---
 
