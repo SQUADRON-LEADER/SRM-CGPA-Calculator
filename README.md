@@ -42,7 +42,7 @@ A lightweight and user-friendly tool to calculate CGPA for SRM University studen
 
 ## 🔧 Tech Stack
 
-- **Language:** JavaScript
+- **Language:** JavaScript,HTML
 - **Interface:** Web (React.js, Next.js, CSS)
 - **Frameworks/Libraries:** React.js, Next.js
 
